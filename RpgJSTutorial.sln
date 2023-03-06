@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpgJSTutorial", "RpgJSTutorial\RpgJSTutorial.csproj", "{0C5922A5-D2A8-49BB-93F7-457AA09EDB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C5922A5-D2A8-49BB-93F7-457AA09EDB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5922A5-D2A8-49BB-93F7-457AA09EDB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5922A5-D2A8-49BB-93F7-457AA09EDB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5922A5-D2A8-49BB-93F7-457AA09EDB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD1A51D0-8143-470A-A674-10781ECFB101}
+	EndGlobalSection
+EndGlobal
